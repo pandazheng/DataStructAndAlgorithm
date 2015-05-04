@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:insert_sort/insert_sort.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:GuessNumber/GuessNumber.xcodeproj">
    </FileRef>
    <FileRef

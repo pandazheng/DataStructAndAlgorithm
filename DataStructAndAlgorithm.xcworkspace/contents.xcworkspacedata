@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:GuessNumber/GuessNumber.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:bubble_sort/bubble_sort.xcodeproj">
    </FileRef>
 </Workspace>

@@ -2,6 +2,51 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:OOC/OOC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:RandNum/RandNum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FileDemo/FileDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ConStr/ConStr.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TypeDef/TypeDef.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FuncPointer/FuncPointer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StructPointerDemo/StructPointerDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StructDemo/StructDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:LoopDemo/LoopDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IfElse/IfElse.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DefineMethod/DefineMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Define/Define.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CallMethod/CallMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StdIO/StdIO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:HelloC/HelloC.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:StringDemo/StringDemo.xcodeproj">
    </FileRef>
    <FileRef

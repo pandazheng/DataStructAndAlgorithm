@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:StringDemo/StringDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Static_Sqlist/Static_Sqlist.xcodeproj">
    </FileRef>
    <FileRef
